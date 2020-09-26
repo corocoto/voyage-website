@@ -1,5 +1,6 @@
-import React from "react"
+import React from "react";
+import Loader from "../components/Loader/Loader";
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return <Loader/>
 }
